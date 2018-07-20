@@ -58,7 +58,7 @@ $ npm run build
 ## Prettier
 
 ```
-$ npm run prettier
+$ npm run format
 ```
 
 # License
